@@ -1,8 +1,8 @@
 hola!!!
 # Finance Dataset Power BI Dashboard
 
-# Finance Dataset Power BI Dashboard
-📌 Project Overview
+
+## 📌 Project Overview
 
 This project presents an interactive Power BI dashboard built using a finance dataset.
 It provides actionable insights into sales performance, profit distribution, discounts, and customer segments, enabling better decision-making for stakeholders.
@@ -14,7 +14,7 @@ The dashboard is divided into two report pages for clarity:
 
 This page focuses on the overall sales and profit performance across different dimensions.
 
-#KPI Cards:
+## KPI Cards:
 
 💰 Gross Sales: Total sales revenue (127.93M).
 
@@ -36,17 +36,17 @@ Manufacturing Price by Month → Bar chart tracking manufacturing price trends.
 
 Profit by Product → Bar chart showing most profitable products.
 
-#🔹 Page 2 – Segment & Category Insights
+##🔹 Page 2 – Segment & Category Insights
 
 This page focuses on segment-level and category-level analysis for deeper insights.
 
-#KPI Cards:
+### KPI Cards:
 
 🎯 Discount Utilization: Average utilization rate of discounts.
 
 📊 Avg Profit Margin: Overall profit margin (41.68K).
 
-#Visuals:
+## Visuals:
 
 Profit by Sales Category → Pie chart showing contribution of High, Medium, and Low categories.
 
@@ -60,7 +60,7 @@ Discount Impact by Sales Category → Line chart showing how discounts affect di
 
 Gross Sales vs Units Sold by Year → Combo chart for year-wise comparison.
 
-⚙️ Tech Stack
+## ⚙️ Tech Stack
 
 Power BI Desktop (Data Modeling, DAX, and Visualization)
 
@@ -68,7 +68,7 @@ Excel / CSV Dataset for financial data preprocessing
 
 GitHub for version control and sharing
 
-🚀 How to Use
+## 🚀 How to Use
 
 Clone this repository:
 
@@ -79,7 +79,7 @@ Open the .pbix file in Power BI Desktop.
 
 Interact with the dashboard filters (Quarter, Country, Segment) to explore insights.
 
-#📌 Key Business Insights
+## 📌 Key Business Insights
 
 ✅ The USA leads in total sales, followed by Canada and France.
 ✅ Low Discount Band contributes the highest profit.
